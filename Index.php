@@ -6,8 +6,27 @@
     <link rel="stylesheet" href="/Curso/css/estilos.css">
     <title>Document</title>
 </head>
+<marquee> Java Completo Revisão 2025</marquee>
+    
+     <div class="cabeca">
+          <nav>
+            <ul>
+                <li> <a href="#"> Meus Cursos </a></li>
+                <li> <a href="# "> Meus Projetos </a></li>
+                <li><a href="#"> Contatos</a></li>
+            </ul>
+          </nav>
+     </div>
+   </header>
 <body>
     <marquee> Java Completo Revisão 2025</marquee>
     
 </body>
+   <foote>
+    <div class="rodape">
+        <h2> responsavel André Luis Kunert _ Fevereiro_2025</h2> <br>
+    </div>
+ </footer>
+ <marquee> Java Completo Revisão 2025</marquee>
+    
 </html>
