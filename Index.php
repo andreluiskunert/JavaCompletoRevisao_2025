@@ -9,6 +9,9 @@
 <marquee> Java Completo Revisão 2025</marquee>
     
      <div class="cabeca">
+         <p class="img"> 
+            <img src="/Curso/img/logo.webp" alt="" srcset="">
+         </p>
           <nav>
             <ul>
                 <li> <a href="#"> Meus Cursos </a></li>
@@ -20,11 +23,13 @@
    </header>
 <body>
     <marquee> Java Completo Revisão 2025</marquee>
-    
+     <div class="corpo">
+        aqui é o lugar do conteudo...
+     </div>
 </body>
    <foote>
     <div class="rodape">
-        <h2> responsavel André Luis Kunert _ Fevereiro_2025</h2> <br>
+        <h2> responsavel André Luis Kunert _ Março_2025</h2> <br>
     </div>
  </footer>
  <marquee> Java Completo Revisão 2025</marquee>
