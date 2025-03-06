@@ -9,6 +9,9 @@ public class PrimerioPrograma {
 		System.out.println("Este é o meu primeiro em Java");
 		System.out.println("Bora Estudar Java pela Udemy");
 		System.out.println("Primeiro Programa parte 1ª");
+	  /**
+	   * @author Andre Luis Kunert <e-mail.c>
+	   */
 		System.out.println("Primeiro Programa parte 2ª");
 	}
 }
